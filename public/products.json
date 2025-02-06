@@ -1,0 +1,382 @@
+[
+      {
+            "id": 1,
+            "title": "Apple MacBook Pro 16 M1",
+            "image": "https://i.ibb.co.com/r04s56P/51-Sk9-QLje9-L-AC-UY327-FMwebp-QL65.webp",
+            "category": "Laptops",
+            "price": 2499,
+            "description": "The MacBook Pro 16-inch with the powerful M1 chip, designed for professionals.",
+            "specification": {
+                  "screen_size": "16 inches",
+                  "processor": "M1 Pro",
+                  "storage": "1TB SSD",
+                  "ram": "16GB",
+                  "battery": "100Wh"
+            },
+            "availability": true,
+            "rating": 4.9
+      },
+      {
+            "id": 2,
+            "title": "OnePlus 11",
+            "image": "https://i.ibb.co.com/sPfbJ30/81f-RAo-UL-f-L-AC-UY327-FMwebp-QL65.webp",
+            "category": "Smart Phones",
+            "price": 749,
+            "description": "OnePlus flagship with Snapdragon 8 Gen 2 and blazing fast charging.",
+            "specification": {
+                  "screen_size": "6.55 inches",
+                  "processor": "Snapdragon 8 Gen 2",
+                  "storage": "256GB",
+                  "battery": "4800mAh",
+                  "camera": "50MP triple-camera system"
+            },
+            "availability": true,
+            "rating": 4.6
+      },
+      {
+            "id": 3,
+            "title": "HTC Vive Focus Vision",
+            "image": "https://i.ibb.co.com/wrK90SS/htc-vive-focus-vision.jpg",
+            "category": "VR Headsets",
+            "price": 999,
+            "description": "The HTC Vive Focus Vision is a high-end VR headset offering color passthrough and eye-tracking, suitable for gaming and professional use.",
+            "specification": {
+                  "display": "2448 x 2448 per eye",
+                  "processor": "Qualcomm Snapdragon XR2",
+                  "storage": "128GB",
+                  "ram": "12GB",
+                  "refresh_rate": "Up to 120Hz",
+                  "field_of_view": "120 degrees"
+            },
+            "availability": true,
+            "rating": 4.7
+      },
+      {
+            "id": 4,
+            "title": "Samsung Galaxy Tab S10 Ultra",
+            "image": "https://i.ibb.co.com/fS2Lcg7/51-LHmho-U-c-L-AC-UY327-FMwebp-QL65.webp",
+            "category": "Tablets",
+            "price": 1199,
+            "description": "Samsung's flagship tablet with a 14.6-inch Dynamic AMOLED 2X display and S Pen support.",
+            "specification": {
+                  "screen_size": "14.6 inches",
+                  "processor": "MediaTek Dimensity 9300+ Octa Core",
+                  "storage": "512GB",
+                  "ram": "12GB",
+                  "battery": "11200mAh",
+                  "camera": "13MP + 6MP dual rear cameras"
+            },
+            "availability": true,
+            "rating": 4.8
+      },
+      {
+            "id": 5,
+            "title": "Google Pixel 7 Pro",
+            "image": "https://i.ibb.co.com/z6S3yWD/610q-UV1bc-L-AC-UY327-FMwebp-QL65.webp",
+            "category": "Smart Phones",
+            "price": 899,
+            "description": "The latest Pixel with Google Tensor chip and AI-powered camera features.",
+            "specification": {
+                  "screen_size": "6.7 inches",
+                  "processor": "Google Tensor G2",
+                  "storage": "256GB",
+                  "battery": "5000mAh",
+                  "camera": "50MP triple-camera system"
+            },
+            "availability": true,
+            "rating": 4.7
+      },
+      {
+            "id": 6,
+            "title": "Microsoft Surface Laptop 5",
+            "image": "https://i.ibb.co.com/Qbwy2Cy/61vq-I0vw94-L-AC-UY327-FMwebp-QL65.webp",
+            "category": "Laptops",
+            "price": 1299,
+            "description": "Slim and sleek laptop with PixelSense touchscreen and long-lasting battery.",
+            "specification": {
+                  "screen_size": "13.5 inches",
+                  "processor": "Intel Core i5",
+                  "storage": "512GB SSD",
+                  "ram": "8GB",
+                  "battery": "47Wh"
+            },
+            "availability": false,
+            "rating": 4.5
+      },
+      {
+            "id": 7,
+            "title": "Pico 4 Ultra",
+            "image": "https://i.ibb.co.com/qF1t17z/The-PICO-4-Ultra-How-it-Compares-to-the-PICO-4-XR-Today-News.jpg",
+            "category": "VR Headsets",
+            "price": 429,
+            "description": "The Pico 4 Ultra is a standalone VR headset with a high-resolution display and ergonomic design, offering a comfortable VR experience.",
+            "specification": {
+                  "display": "2160 x 2160 per eye",
+                  "processor": "Qualcomm Snapdragon XR2",
+                  "storage": "128GB or 256GB",
+                  "ram": "8GB",
+                  "refresh_rate": "90Hz",
+                  "field_of_view": "105 degrees"
+            },
+            "availability": true,
+            "rating": 4.5
+      },
+      {
+            "id": 8,
+            "title": "Apple Watch Series 9",
+            "image": "https://i.ibb.co.com/Yddb5qj/61-DZ-Vezk0-L-AC-UY327-FMwebp-QL65.webp",
+            "category": "Smart Watches",
+            "price": 499,
+            "description": "The latest Apple Watch with always-on display and advanced fitness tracking.",
+            "specification": {
+                  "screen_size": "1.78 inches",
+                  "battery": "304mAh",
+                  "connectivity": "Bluetooth, Wi-Fi, LTE",
+                  "health_features": "ECG, Blood oxygen sensor, Heart rate monitoring"
+            },
+            "availability": true,
+            "rating": 4.9
+      },
+      {
+            "id": 9,
+            "title": "Lenovo ThinkPad X1 Carbon Gen 9",
+            "image": "https://i.ibb.co.com/n8yTWM6/710-EGJBd-IML-AC-UY327-FMwebp-QL65.webp",
+            "category": "Laptops",
+            "price": 1899,
+            "description": "The lightweight business laptop with military-grade durability and long battery life.",
+            "specification": {
+                  "screen_size": "14 inches",
+                  "processor": "Intel Core i7",
+                  "storage": "1TB SSD",
+                  "ram": "16GB",
+                  "battery": "57Wh"
+            },
+            "availability": true,
+            "rating": 4.7
+      },
+      {
+            "id": 10,
+            "title": "Dell XPS 13",
+            "image": "https://i.ibb.co.com/NKqztdQ/61-XXyxsfd-RL-AC-UY327-FMwebp-QL65.webp",
+            "category": "Laptops",
+            "price": 1399,
+            "description": "Ultra-portable 13.4-inch laptop with 11th Gen Intel Core processor.",
+            "specification": {
+                  "screen_size": "13.4 inches",
+                  "processor": "Intel Core i7",
+                  "storage": "512GB SSD",
+                  "ram": "16GB",
+                  "battery": "52Wh"
+            },
+            "availability": true,
+            "rating": 4.7
+      },
+      {
+            "id": 11,
+            "title": "Samsung Galaxy S23 Ultra",
+            "image": "https://i.ibb.co.com/chCzgJw/51m-XHdm9j-HL-AC-UY327-FMwebp-QL65.webp",
+            "category": "Smart Phones",
+            "price": 1199,
+            "description": "Flagship smartphone with 108MP camera and cutting-edge Exynos processor.",
+            "specification": {
+                  "screen_size": "6.8 inches",
+                  "processor": "Exynos 2200",
+                  "storage": "512GB",
+                  "battery": "5000mAh",
+                  "camera": "108MP quad-camera system"
+            },
+            "availability": true,
+            "rating": 4.8
+      },
+      {
+            "id": 12,
+            "title": "Samsung Galaxy Watch 6",
+            "image": "https://i.ibb.co.com/qRxWJXY/81-Dm65eja8-L-AC-UY327-FMwebp-QL65.webp",
+            "category": "Smart Watches",
+            "price": 349,
+            "description": "Advanced health tracking smartwatch with AMOLED display.",
+            "specification": {
+                  "screen_size": "1.4 inches",
+                  "battery": "472mAh",
+                  "connectivity": "Bluetooth, Wi-Fi, LTE",
+                  "health_features": "Heart rate monitor, ECG, Blood oxygen monitoring"
+            },
+            "availability": false,
+            "rating": 4.6
+      },
+      {
+            "id": 13,
+            "title": "Garmin Venu 2 Plus",
+            "image": "https://i.ibb.co.com/PTT3Tr1/61jecd-XQi-WS-AC-UY327-FMwebp-QL65.webp",
+            "category": "Smart Watches",
+            "price": 449,
+            "description": "Premium smartwatch with built-in GPS and fitness tracking features.",
+            "specification": {
+                  "screen_size": "1.3 inches",
+                  "battery": "416mAh",
+                  "connectivity": "Bluetooth, Wi-Fi",
+                  "health_features": "Pulse Oximeter, Stress tracking, Sleep monitoring"
+            },
+            "availability": true,
+            "rating": 4.7
+      },
+      {
+            "id": 14,
+            "title": "Apple iPad Pro 12.9 (2024)",
+            "image": "https://i.ibb.co.com/n6JdKxV/Apple-i-Pad-Pro-12-9-2021-Official.webp",
+            "category": "Tablets",
+            "price": 1099,
+            "description": "The latest iPad Pro featuring the M4 chip and a stunning 12.9-inch Liquid Retina XDR display.",
+            "specification": {
+                  "screen_size": "12.9 inches",
+                  "processor": "Apple M4",
+                  "storage": "256GB",
+                  "ram": "8GB",
+                  "battery": "9720mAh",
+                  "camera": "12MP Wide + 10MP Ultra Wide"
+            },
+            "availability": true,
+            "rating": 4.9
+      },
+      {
+            "id": 15,
+            "title": "Asus ROG Zephyrus G14",
+            "image": "https://i.ibb.co.com/jyCQcp6/81m-x-Yfxzn-L-AC-UY327-FMwebp-QL65.webp",
+            "category": "Laptops",
+            "price": 1799,
+            "description": "A powerful gaming laptop with AMD Ryzen processor and NVIDIA RTX graphics.",
+            "specification": {
+                  "screen_size": "14 inches",
+                  "processor": "AMD Ryzen 9",
+                  "storage": "1TB SSD",
+                  "ram": "16GB",
+                  "battery": "76Wh"
+            },
+            "availability": true,
+            "rating": 4.8
+      },
+      {
+            "id": 16,
+            "title": "Microsoft Surface Pro 9",
+            "image": "https://i.ibb.co.com/znr4h3v/41-QTLANDc3-L-AC-SL1200.jpg",
+            "category": "Tablets",
+            "price": 999,
+            "description": "A versatile 2-in-1 tablet with a 13-inch PixelSense Flow display and Intel Evo platform.",
+            "specification": {
+                  "screen_size": "13 inches",
+                  "processor": "Intel Core i7 12th Gen",
+                  "storage": "256GB SSD",
+                  "ram": "8GB",
+                  "battery": "50.4Wh",
+                  "camera": "10MP rear, 5MP front"
+            },
+            "availability": true,
+            "rating": 4.7
+      },
+      {
+            "id": 17,
+            "title": "Sony PlayStation VR2",
+            "image": "https://i.ibb.co.com/jTJSs5f/sony-playstation-vr2-oled-2000x2040-display-41698582501.webp",
+            "category": "VR Headsets",
+            "price": 549,
+            "description": "The PlayStation VR2 offers an immersive gaming experience with high-resolution OLED displays and advanced haptic feedback.",
+            "specification": {
+                  "display": "2000 x 2040 per eye",
+                  "processor": "Custom PlayStation 5",
+                  "storage": "N/A",
+                  "ram": "N/A",
+                  "refresh_rate": "90Hz, 120Hz",
+                  "field_of_view": "110 degrees"
+            },
+            "availability": true,
+            "rating": 4.6
+      },
+      {
+            "id": 18,
+            "title": "Amazon Fire HD 10 Plus",
+            "image": "https://i.ibb.co.com/tQyMppN/61bivl-WEi-XS-AC-UY327-FMwebp-QL65.webp",
+            "category": "Tablets",
+            "price": 179,
+            "description": "An affordable tablet with a 10.1-inch Full HD display and wireless charging support.",
+            "specification": {
+                  "screen_size": "10.1 inches",
+                  "processor": "Octa-core 2.0 GHz",
+                  "storage": "64GB",
+                  "ram": "4GB",
+                  "battery": "12-hour battery life",
+                  "camera": "5MP rear, 2MP front"
+            },
+            "availability": true,
+            "rating": 4.5
+      },
+      {
+            "id": 19,
+            "title": "Meta Quest 3",
+            "image": "https://i.ibb.co.com/48yVH3Z/wp-Q5z-Kws-CABc-Asu3gkuc-Uo-1200-80-jpg.webp",
+            "category": "VR Headsets",
+            "price": 499,
+            "description": "The Meta Quest 3 is a standalone VR headset featuring a high-resolution display and improved mixed reality capabilities.",
+            "specification": {
+                  "display": "2064 x 2208 per eye",
+                  "processor": "Qualcomm Snapdragon XR2 Gen 2",
+                  "storage": "128GB or 256GB",
+                  "ram": "8GB",
+                  "refresh_rate": "Up to 120Hz",
+                  "field_of_view": "110 degrees"
+            },
+            "availability": true,
+            "rating": 4.8
+      },
+      {
+            "id": 20,
+            "title": "HP Spectre x360",
+            "image": "https://i.ibb.co.com/SNxkmyZ/16-5.png",
+            "category": "Laptops",
+            "price": 1599,
+            "description": "Convertible 2-in-1 laptop with stunning design and powerful Intel performance.",
+            "specification": {
+                  "screen_size": "13.3 inches",
+                  "processor": "Intel Core i7",
+                  "storage": "1TB SSD",
+                  "ram": "16GB",
+                  "battery": "60Wh"
+            },
+            "availability": true,
+            "rating": 4.6
+      },
+      {
+            "id": 21,
+            "title": "Lenovo Tab P12 Pro",
+            "image": "https://i.ibb.co.com/6R8Hphd/616-SXS5m0e-L-AC-UY327-FMwebp-QL65.webp",
+            "category": "Tablets",
+            "price": 699,
+            "description": "A high-performance Android tablet with a 12.6-inch AMOLED display and Snapdragon 870 processor.",
+            "specification": {
+                  "screen_size": "12.6 inches",
+                  "processor": "Qualcomm Snapdragon 870",
+                  "storage": "128GB",
+                  "ram": "6GB",
+                  "battery": "10200mAh",
+                  "camera": "13MP + 5MP dual rear cameras"
+            },
+            "availability": true,
+            "rating": 4.6
+      },
+      {
+            "id": 22,
+            "title": "iPhone 14 Pro Max",
+            "image": "https://i.ibb.co.com/YpHYvf1/518bz-P8-VW1-L-AC-UL480-FMwebp-QL65.webp",
+            "category": "Smart Phones",
+            "price": 1099,
+            "description": "The top-of-the-line iPhone with A15 Bionic chip and advanced Pro camera system.",
+            "specification": {
+                  "screen_size": "6.7 inches",
+                  "processor": "A15 Bionic",
+                  "storage": "256GB",
+                  "battery": "4352mAh",
+                  "camera": "12MP triple-camera system"
+            },
+            "availability": true,
+            "rating": 4.9
+      }
+]
