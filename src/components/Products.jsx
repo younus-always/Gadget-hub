@@ -24,9 +24,9 @@ const Products = () => {
                   <div className={`${products.length > 0 && 'grid'} grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6 pb-7`} >
                         {
                               products.length === 0
-                                    ? <div className="w-full h-52 flex items-center gap-6">
-                                          <p className="text-3xl lg:text-5xl font-bold">Data Not Found!</p>
-                                          <img src={searching} alt="" width={'80px'} />
+                                    ? <div className="w-full h-52 flex items-center gap-5">
+                                          <p className="text-xl font-bold">Data Not Found!</p>
+                                          <img src={searching} alt="" width={'48px'} />
                                     </div>
                                     : products.map(product =>
                                           <Card key={product.id} product={product} />)
